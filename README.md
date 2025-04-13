@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/shravzzv/fm-interactive-rating-component](https://github.com/shravzzv/fm-interactive-rating-component)
+- Live Site URL: [https://shravzzv.github.io/fm-interactive-rating-component/](https://shravzzv.github.io/fm-interactive-rating-component/)
 
 ## My process
 
